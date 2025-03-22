@@ -1,0 +1,1 @@
+No locations found matching all criteria: vendor=Cisco, status=Deployment, metro=Singapore
