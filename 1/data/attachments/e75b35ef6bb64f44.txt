@@ -1,0 +1,1 @@
+No locations found matching all criteria: vendor=Palo Alto, status=Deployment, metro=London
