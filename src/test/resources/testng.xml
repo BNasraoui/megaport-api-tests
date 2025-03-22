@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Megaport API Test Suite">
+    <test name="Locations API Tests">
+        <classes>
+            <class name="com.megaport.api.v2.Locations"/>
+        </classes>
+    </test>
+</suite> 
